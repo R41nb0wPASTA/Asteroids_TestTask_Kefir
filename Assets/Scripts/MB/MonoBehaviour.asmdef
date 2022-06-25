@@ -1,0 +1,24 @@
+{
+    "name": "MonoBehaviour",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:8fd566b84d8d54742bcf5dfd5b8061b2",
+        "GUID:8a7577bb16993a743879785eda497e34",
+        "GUID:987080570c29ad442a0fc054cef182dd",
+        "GUID:24be1842ac4d9fa49baf2d005d8c09f0",
+        "GUID:637ff8bfcdc7f0a47b88dfebd472724c",
+        "GUID:5e56dc7da61829c489571345d0a07e1a",
+        "GUID:d6889d9e10b3f9f469c9c4f14e745576",
+        "GUID:31611a293b5e0a74db705e13c299defc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

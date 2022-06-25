@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7678692566274261357
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7678692566274261356}
+  - component: {fileID: 7678692566274261359}
+  m_Layer: 0
+  m_Name: Game
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7678692566274261356
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7678692566274261357}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7678692566274261359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7678692566274261357}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02fd80c3a84a8324c9dab8d409953baa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  screenBoundsData: {fileID: 11400000, guid: c23a8f0c2a2f96141ade5de20d52fdb0, type: 2}
+  scoreData: {fileID: 11400000, guid: 8b64720197cac25499e4979f51216a47, type: 2}
+  spaceShipData: {fileID: 11400000, guid: 567fc23dcdbf91d4da1afa0de5b4a332, type: 2}
+  asteroidData: {fileID: 11400000, guid: 9afdbdba949375543b2a1f47e963982c, type: 2}
+  ufoData: {fileID: 11400000, guid: d8815d592503e624c9154d31f52b2689, type: 2}
+  audioManager: {fileID: 2274675344182146894, guid: a38e0bd88e411cd409157a6964fe9bee, type: 3}
+  spaceShip: {fileID: 6227217589524406193, guid: 1d783af55738ef34192f2c421d2b726e, type: 3}
+  bigAsteroid: {fileID: 2546560123953446038, guid: 237edcc8fef8e28418d0fa94341ead29, type: 3}
+  ufo: {fileID: 2206477326565121842, guid: 7bca990e18da7084882d9c2cd259fbd9, type: 3}

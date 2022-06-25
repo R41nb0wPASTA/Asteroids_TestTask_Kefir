@@ -1,0 +1,16 @@
+{
+    "name": "Helper",
+    "rootNamespace": "",
+    "references": [
+        "GUID:24be1842ac4d9fa49baf2d005d8c09f0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
