@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f422d063d34e61d4c9684857d7fbc69d, type: 3}
+  m_Name: UFOData
+  m_EditorClassIdentifier: 
+  isAlive: 1
+  speed: 15
+  spawnTimer: 30
+  ufo: {fileID: 2206477326565121842, guid: 7bca990e18da7084882d9c2cd259fbd9, type: 3}
